@@ -1,0 +1,13 @@
+.aboutus-header{
+    margin-top: 76px;
+    height: 150px;
+    text-transform: uppercase;
+    color: white;
+    display: flex;
+    font-weight: 700;
+    font-size: 28px;
+    background: #286cff;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
